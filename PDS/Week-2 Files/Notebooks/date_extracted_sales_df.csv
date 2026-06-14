@@ -1,0 +1,11 @@
+,Sale_ID,Store,Date,Product,Units_Sold,Unit_Price,Year,Month,day,Month_name,Day_name
+0,101,Mumbai,2025-01-05,Laptop,5,60000,2025,1,5,January,Sunday
+1,102,Delhi,2025-01-12,Headphones,10,2000,2025,1,12,January,Sunday
+2,103,Bangalore,2025-01-18,Keyboard,15,1500,2025,1,18,January,Saturday
+3,104,Hyderabad,2025-02-03,Mouse,20,800,2025,2,3,February,Monday
+4,105,Chennai,2025-02-10,Laptop,7,62000,2025,2,10,February,Monday
+5,106,Delhi,2025-03-01,Keyboard,18,1500,2025,3,1,March,Saturday
+6,107,Mumbai,2025-03-10,Monitor,6,12000,2025,3,10,March,Monday
+7,108,Bangalore,2025-03-17,Mouse,22,900,2025,3,17,March,Monday
+8,109,Chennai,2025-04-02,Headphones,9,2500,2025,4,2,April,Wednesday
+9,110,Hyderabad,2025-04-15,Monitor,4,11000,2025,4,15,April,Tuesday
